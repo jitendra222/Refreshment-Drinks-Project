@@ -25,7 +25,7 @@ const Home = () => {
                 <img src={MainImage} alt="main-image" />
             </section>
             <div className='product-heading'>
-                <h2>Product-List</h2>
+                <h2>New Launched Products!!</h2>
             </div>
             <section className='item-container'>
                 <div className='item-grid'>
