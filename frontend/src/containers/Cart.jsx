@@ -36,7 +36,7 @@ const Cart = () => {
                                         <CartItem
                                             cart={cart.item}
                                             cartId={cart.id}
-                                            key={cart.item.id}
+                                            key={cart.item_id}
                                             quantity={cart.quantity}
                                         />
                                     </li>
